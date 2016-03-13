@@ -6,8 +6,8 @@ inLanguage: null
 starred: false
 keywords: []
 description: 'We are working on a line of simple, modern urns and a website to share experiences and community around honest, sustainable cremation and burial.'
-datePublished: '2016-03-13T20:04:18.085Z'
-dateModified: '2016-03-13T20:04:17.746Z'
+datePublished: '2016-03-13T20:34:23.056Z'
+dateModified: '2016-03-13T20:34:03.968Z'
 title: urns and community
 author: []
 sourcePath: _posts/2016-03-13-urns-and-community.md
