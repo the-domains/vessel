@@ -5,19 +5,19 @@ inNav: false
 inLanguage: null
 starred: false
 keywords: []
-description: 'We are working on a line of simple, modern urns and website to share experiences and community around honest, sustainable cremation and burial.'
-datePublished: '2016-03-13T14:50:14.344Z'
-dateModified: '2016-03-13T14:49:46.819Z'
+description: 'We are working on a line of simple, modern urns and a website to share experiences and community around honest, sustainable cremation and burial.'
+datePublished: '2016-03-13T20:04:18.085Z'
+dateModified: '2016-03-13T20:04:17.746Z'
 title: urns and community
 author: []
+sourcePath: _posts/2016-03-13-urns-and-community.md
+published: true
 authors: []
 publisher:
   name: null
   domain: null
   url: null
   favicon: null
-sourcePath: _posts/2016-03-13-urns-and-community.md
-published: true
 url: urns-and-community/index.html
 _type: Article
 
