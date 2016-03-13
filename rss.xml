@@ -4,8 +4,15 @@
         <description><![CDATA[vessel - urns and exploring the process of death]]></description>
         <link>https://thegrid.ai/vessel/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sun, 13 Mar 2016 20:34:39 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 13 Mar 2016 20:34:47 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/vessel/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[origins]]></title>
+            <description><![CDATA[<article><h1>origins</h1><p>The idea for vessel came about after my dad died.  We were researching having him cremated and two things happened.  First, the big mortuaries were very expensive and tried to take advantage of our grief and lack of knowledge about the process to charge us as much as possible for their goods and services. Second, we didn't like the design of any of the urns that were available, either from the mortuaries or that we could find online.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/18568fcf4648c1cc89653b234f362da01be2afc8.jpg"></article>]]></description>
+            <link>https://thegrid.ai/vessel/origins/index.html</link>
+            <guid isPermaLink="false">e4d51d86-27da-476c-9057-7ae308a6586e</guid>
+            <pubDate>Sun, 13 Mar 2016 20:34:28 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[first form]]></title>
             <description><![CDATA[<article><h1>first form</h1><p>We have so many ideas about forms, materials, and production but we have to start somewhere!  So... we are going to start with 3 designs in wood that we think will be simple, beautiful and timeless. Here's one of them, let us know what you think.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/a100a2cb9a88bad63520fd87bb3cfa77b1d24fb7.png"></article>]]></description>
@@ -19,13 +26,6 @@
             <link>https://thegrid.ai/vessel/urns-and-community/index.html</link>
             <guid isPermaLink="false">9a467453-51ce-4897-aedc-108f33499fef</guid>
             <pubDate>Sun, 13 Mar 2016 20:34:23 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[origins]]></title>
-            <description><![CDATA[<article><h1>origins</h1><p>The idea for vessel came about after my dad died.  We were researching having him cremated and two things happened.  First, the big mortuaries were very expensive and tried to take advantage of our grief and lack of knowledge about the process to charge us as much as possible for their goods and services. Second, we didn't like the design of any of the urns that were available, either from the mortuaries or that we could find online.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/18568fcf4648c1cc89653b234f362da01be2afc8.jpg"></article>]]></description>
-            <link>https://thegrid.ai/vessel/origins/index.html</link>
-            <guid isPermaLink="false">e4d51d86-27da-476c-9057-7ae308a6586e</guid>
-            <pubDate>Sun, 13 Mar 2016 14:15:33 GMT</pubDate>
         </item>
     </channel>
 </rss>
