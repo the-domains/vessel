@@ -3,11 +3,11 @@ inFeed: true
 hasPage: true
 inNav: false
 inLanguage: null
-starred: false
+starred: true
 keywords: []
 description: "We have so many ideas about forms, materials, and production but we have to start somewhere! \_So... we are going to start with 3 designs in wood that we think will be simple, beautiful and timeless. Here's one of them, let us know what you think."
-datePublished: '2016-03-13T20:04:26.254Z'
-dateModified: '2016-03-13T20:04:25.929Z'
+datePublished: '2016-03-13T20:32:23.833Z'
+dateModified: '2016-03-13T20:32:18.088Z'
 title: first form
 author: []
 sourcePath: _posts/2016-03-13-we-have-so-many-ideas-about-forms-materials-and-production.md
