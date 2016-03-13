@@ -1,7 +1,7 @@
 name: Vessel
 favicon: null
-layout_spectrum: 0
-typography_spectrum: 0.6925057815387845
+layout_spectrum: 0.51202
+typography_spectrum: 0.76018
 title: vessel - urns and exploring the process of death
 cta:
   domain: null
@@ -22,7 +22,7 @@ color:
     - '#3d4a30'
     - '#b2554f'
     - '#808e52'
-  brandStrength: 0.0625
+  brandStrength: 0
   lightness: 0.4375
   saturation: 0.3125
   rhythmicContrast: 0.48266981495544314
