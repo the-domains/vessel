@@ -1,7 +1,7 @@
 name: Vessel
 favicon: null
 layout_spectrum: 0.26056
-typography_spectrum: 0.72931
+typography_spectrum: 0.7277
 title: vessel - urns and the process of dying
 cta:
   domain: null
@@ -17,13 +17,13 @@ opengraph:
   appId: null
 color:
   brandColors:
-    - '#0e0f11'
-    - '#a6a177'
-    - '#575953'
-    - '#e0cfa3'
-    - '#d16256'
-  brandStrength: 0
+    - '#c8dae9'
+    - '#17221e'
+    - '#bd5841'
+    - '#5d728a'
+    - '#f19963'
+  brandStrength: 0.5
   lightness: 0.4375
   saturation: 0.5
-  rhythmicContrast: 0.25
+  rhythmicContrast: 0.5
 purpose: []
